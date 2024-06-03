@@ -226,7 +226,7 @@ Promise.all([promise1, promise2, promise3])
 
   let users = [];
 
-// Example using async/await
+// Example using async/await tutor
 function register(user) {
     return new Promise(resolve => {
       setTimeout(() => {
